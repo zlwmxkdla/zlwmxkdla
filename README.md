@@ -36,7 +36,6 @@
 ## 🛠️ Tech Stack 🛠️
 Techs that I've used at least once
 
-### **Languages & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -50,6 +49,7 @@ Techs that I've used at least once
 <h2>:computer: Stats</h2>
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla)](https://github.com/zlwmxkdla/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
+
 <!--
 **zlwmxkdla/zlwmxkdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
