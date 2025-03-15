@@ -1,12 +1,19 @@
 <h1 align="center" >:facepunch: 배움이 많이 필요한 개발자 이유정입니다.:facepunch:</h1>
 <div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 공부하면서 잔디 심기중..</div>
 <h3>:star: Projects</h3>
-<strong>[ 2024.09.06 ~ 2024.12.05 ]</strong><br>
+<strong>[ 2023.09.06 ~ 2023.12.05 ]</strong><br>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>딥러닝을 활용한 연령, 감정 맞춤형 키오스크 시스템</li>
   <li>동국대학교 멀티미디어소프트웨어공학과 졸업 작품</li>
+  <li>CNN을 활용한 연령, 감정 예측 진행</li>
 </ul>
 
+<strong>[ 2024.03.04 ~ 2024.08.30 ]</strong><br>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li>AI를 활용한 역할놀이 서비스</li>
+  <li>SKT 기업 연계 프로젝트</li>
+  <li>LLM을 활용한 실시간 대화형 챗봇 서비스</li>
+</ul>
 
 <hr>
 
