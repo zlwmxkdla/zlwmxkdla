@@ -15,6 +15,13 @@
   <li>LLM을 활용한 실시간 대화형 챗봇 서비스</li>
 </ul>
 
+<strong>[ 2024.07.04 ~ 2024.08.30 ]</strong><br>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li>멀티모달 기반 비정형 송장 인식 시스템</li>
+  <li>한국철도기술연구원 과제</li>
+  <li>송장 역원근 알고리즘 성능 개선</li>
+  <li>LayoutLM 기반 송장 정보 추출</li>
+</ul>
 <hr>
 
 <h3>:computer: Stats</h3>
