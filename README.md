@@ -48,6 +48,7 @@ Techs that I've used at least once
 
 <h2>:computer: Stats</h2>
 [![zlwmxkdla's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla)](https://github.com/zlwmxkdla/github-readme-stats)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla&show_icons=true&theme=스타일)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
 
