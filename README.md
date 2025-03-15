@@ -1,6 +1,7 @@
 <h1 align="center" >:facepunch: 배움이 많이 필요한 개발자 이유정입니다.:facepunch:</h1>
 <div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 공부하면서 잔디 심기중..</div>
-<h3>:star: Projects</h3>---
+<h3>:star: Projects</h3>
+<hr>
 <strong>[ 2023.09.06 ~ 2023.12.05 ]</strong><br>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>딥러닝을 활용한 연령, 감정 맞춤형 키오스크 시스템</li>
