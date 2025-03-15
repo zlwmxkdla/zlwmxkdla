@@ -29,9 +29,8 @@
 <h2>🏆 Awards </h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>2023 겨울 ICIP & 캡스톤 경진대회 <strong>장려상</strong></li>
-  <li>한국철도기술연구원 과제</li>
-  <li>송장 역원근 알고리즘 성능 개선</li>
-  <li>LayoutLM 기반 송장 정보 추출</li>
+  <li>SKT 기업 연계 캡스톤 교과 우수</li>
+  <li>2024 밸류업 59초 영상 공모 최우수</li>
 </ul>
 
 <h2>:computer: Stats</h2>
