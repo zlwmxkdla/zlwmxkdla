@@ -1,5 +1,5 @@
 <h1 align="center" >:facepunch: 배움이 많이 필요한 개발자 이유정입니다.:facepunch:</h1>
-<div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다.</div>
+<div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 잔디 심기중..</div>
 <h3>:star: Projects</h3>
 <style bold>[ 2024.09.06 ~ 2024.12.05 ]</style>
 <hr>
