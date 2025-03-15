@@ -1,4 +1,4 @@
-<h1 align="center" >:facepunch: 배움이 많이 필요한 개발자 이유정입니다.:facepunch:</h1>
+<h1 align="center" >:facepunch: eujeong :facepunch:</h1>
 <div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 공부하면서 잔디 심기중.......</div>
 <h2>:star: Projects</h2>
 
