@@ -29,15 +29,25 @@
 <h2>🏆 Awards </h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>2023 겨울 ICIP & 캡스톤 경진대회 <strong>장려상</strong></li>
-  <li>SKT 기업 연계 캡스톤 교과 우수</li>
-  <li>2024 밸류업 59초 영상 공모 최우수</li>
+  <li>SKT 기업 연계 캡스톤 <strong>교과 우수</strong></li>
+  <li>2024 밸류업 59초 영상 공모 <strong>최우수</strong></li>
 </ul>
 
+## 🛠️ Tech Stack 🛠️
+Techs that I've used at least once
+
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
 <h2>:computer: Stats</h2>
-
-
-
-
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla)](https://github.com/zlwmxkdla/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
 <!--
