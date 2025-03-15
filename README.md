@@ -30,7 +30,7 @@
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>2023 겨울 ICIP & 캡스톤 경진대회 <strong>장려상</strong></li>
   <li>SKT 기업 연계 캡스톤 <strong>교과 우수</strong></li>
-  <li>2024 밸류업 59초 영상 공모 <strong>최우수</strong></li>
+  <li>2024 캡스톤 밸류업 59초 영상 공모 <strong>최우수</strong></li>
 </ul>
 
 ## 🛠️ Tech Stack 🛠️
