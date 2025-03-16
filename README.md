@@ -49,6 +49,10 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-FF0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LayoutLM-007ACC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ResNet-1E90FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 
