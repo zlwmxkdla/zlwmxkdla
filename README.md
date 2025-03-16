@@ -35,7 +35,7 @@
   <li>2024 캡스톤 밸류업 59초 영상 공모 <strong>최우수</strong></li>
 </ul>
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack 
 Techs that I've used at least once
 
 <p align="center">
