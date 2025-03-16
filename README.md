@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=eujeong%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=lightpink&height=300&section=header&text=eujeong%20&fontSize=90)
 
 
 <div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 공부하면서 잔디 심기중.......</div>
