@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=🐽eujeong🐽%20&fontSize=60&fontColor=FFFFFF&color=F9A7B0&fontAlign=50&fontAlignY=30)
 
 
-<div align="center"> 주로 인공지능만 공부하였고 부족한 개발 공부 진행 중입니다. 현재는 공부하면서 잔디 심기중.......</div>
+
 <h2>:star: Projects</h2>
 
 <strong>[ 2023.09.06 ~ 2023.12.05 ]</strong><br>
