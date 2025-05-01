@@ -55,11 +55,13 @@ Techs that I've used at least once
 
 <h2>:computer: Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlwmxkdla&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
-<!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla&show_icons=true&theme=radical&v=1)-->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlwmxkdla&langs_count=10&layout=compact)
 ![eujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
+
+
+
+
 <!--
 **zlwmxkdla/zlwmxkdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
