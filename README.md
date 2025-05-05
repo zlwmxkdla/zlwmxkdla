@@ -58,32 +58,9 @@ Techs that I've used at least once
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlwmxkdla&langs_count=10&layout=compact)
 ![eujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlwmxkdla&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlwmxkdla)](https://solved.ac/zlwmxkdla/)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: ${{ github.zlwmxkdla }}
-      - name: Commit & Push
-        run: |
-          git config user.name zlwmxkdla
-          git config user.email zlwmxkdla93@gmail.com
-          git add -A .
-          git commit -m "generated"
-          git push
 
 <!--
 **zlwmxkdla/zlwmxkdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
