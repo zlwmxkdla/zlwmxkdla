@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=🐽eujeong🐽%20&fontSize=60&fontColor=FFFFFF&color=F9A7B0&fontAlign=50&fontAlignY=30)
 
 
-
+<!--
 <h2>:star: Projects</h2>
 
 <strong>[ 2023.09.06 ~ 2023.12.05 ]</strong><br>
@@ -26,7 +26,7 @@
   <li>송장 역원근 알고리즘 성능 개선</li>
   <li>LayoutLM 기반 송장 정보 추출</li>
 </ul>
-
+-->
 
 <h2>🏆 Awards </h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
