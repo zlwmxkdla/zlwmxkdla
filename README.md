@@ -34,7 +34,7 @@
   <li>SKT 기업 연계 캡스톤 <strong>교과 우수</strong></li>
   <li>2024 캡스톤 밸류업 59초 영상 공모 <strong>최우수</strong></li>
 </ul>
-
+<!--
 ## 🛠️ Tech Stack 
 
 
@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 
 </p>
-
+-->
 
 <h2>:computer: Stats</h2>
 
